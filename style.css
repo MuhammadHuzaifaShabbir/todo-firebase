@@ -1,0 +1,104 @@
+/* #ol button {
+    border-radius: 4px;
+    background-color: gray;
+    border: none;
+    color: white;
+    width: 60px;
+    height: 24px;
+    margin-right: 8px;
+}
+
+#ol {
+    font-size: 20px;
+}
+
+#btn:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+    background-color: rgb(47, 0, 255);
+    color: white;
+
+}
+
+#btna:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+    background-color: rgb(47, 0, 255);
+    color: white;
+
+}
+
+input {
+    text-align: center;
+}
+
+#btn,
+#btna,
+#select {
+    background-color: white;
+}
+
+input,
+button {
+    font-size: 16px;
+}
+
+select {
+    width: 220px;
+    height: 40px;
+    font-size: 20px;
+    border: 2px solid blue;
+    color: gray;
+    padding-left: 7px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px
+}
+#select:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+    background-color: rgb(47, 0, 255);
+    color: white;
+
+} */
+ #ol button{
+    border-radius: 4px;
+    background-color: gray;
+    border: none;
+    color: white;
+    width: 60px;
+    height: 24px;
+    margin-right: 10px;
+}
+#ol{
+    font-size: 20px;
+}
+#btn:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+    background-color: rgb(47, 0, 255);
+    color: white;
+
+}
+#btna:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+    background-color: rgb(47, 0, 255);
+    color: white;
+
+}
+input{
+    text-align: center;
+}
+#btn , #btna{
+    background-color: white;
+}
+input,button{
+    font-size: 16px;
+}
+.deleteclass:hover{
+    background-color:white !important;
+    transform: scale(1.1);
+    transition: 0.5s;
+    color: rgb(0, 217, 255) !important;
+
+}
